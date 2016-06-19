@@ -1,0 +1,5 @@
+D:\learn\csharp\SkiingInSingapore\SkiingInSingapore\bin\Debug\SkiingInSingapore.exe
+D:\learn\csharp\SkiingInSingapore\SkiingInSingapore\bin\Debug\SkiingInSingapore.pdb
+D:\learn\csharp\SkiingInSingapore\SkiingInSingapore\obj\Debug\SkiingInSingapore.csprojResolveAssemblyReference.cache
+D:\learn\csharp\SkiingInSingapore\SkiingInSingapore\obj\Debug\SkiingInSingapore.exe
+D:\learn\csharp\SkiingInSingapore\SkiingInSingapore\obj\Debug\SkiingInSingapore.pdb

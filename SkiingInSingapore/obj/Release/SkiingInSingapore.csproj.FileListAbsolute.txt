@@ -1,0 +1,4 @@
+D:\learn\csharp\SkiingInSingapore\SkiingInSingapore\bin\Release\SkiingInSingapore.exe
+D:\learn\csharp\SkiingInSingapore\SkiingInSingapore\bin\Release\SkiingInSingapore.pdb
+D:\learn\csharp\SkiingInSingapore\SkiingInSingapore\obj\Release\SkiingInSingapore.exe
+D:\learn\csharp\SkiingInSingapore\SkiingInSingapore\obj\Release\SkiingInSingapore.pdb
